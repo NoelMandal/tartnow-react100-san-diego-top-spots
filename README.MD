@@ -1,0 +1,1 @@
+This project reworks the previous San Diego Top Spots project using React JS and uses BootStrap to style inputs and grid elements.
